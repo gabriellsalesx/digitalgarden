@@ -1,5 +1,5 @@
 ---
-{"title":"Exclusivo 01","Criado":"2025-02-06","tags":["whatsapp","gardenEntry","gardenEntry"],"dg-publish":true,"dg-home":true,"permalink":"/blog/exclusivo-01/","dgPassFrontmatter":true}
+{"title":"Exclusivo 01","Criado":"2025-02-06","tags":["whatsapp","gardenEntry","gardenEntry","gardenEntry"],"dg-publish":true,"dg-home":true,"permalink":"/blog/exclusivo-01/","dgPassFrontmatter":true}
 ---
 
 
