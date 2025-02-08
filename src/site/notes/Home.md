@@ -38,7 +38,7 @@
 
 ---
 
-> [!Info] **Recado Final:**
+> [!TIP] **Recado Final:**
 >_Este conhecimento tem efeito cumulativo. Quanto mais você procrastinar, maior a vantagem alheia._
 
 <div align="center" style="margin-top:50px">
