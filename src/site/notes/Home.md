@@ -1,5 +1,5 @@
 ---
-{"title":"As Técnicas PROIBIDAS Que Estão Transformando Leigos em Máquinas de Produtividade","Produzido":"2025-02-07","dg-publish":true,"dg-home":true,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"title":"As Técnicas PROIBIDAS Que Estão Transformando Leigos em Máquinas de Produtividade","Criado":"2025-02-07","dg-publish":true,"dg-home":true,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
